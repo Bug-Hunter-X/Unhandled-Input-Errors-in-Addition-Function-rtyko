@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Solidity: failing to handle potential errors in function input. The `add` function does not check the type of its inputs and will produce unexpected results if given non-numeric inputs. The solution demonstrates safe input handling using type checking and error handling.
